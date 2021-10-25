@@ -1,0 +1,79 @@
+#. extracted from messages.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-25 11:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Paul Lankoande <EMAIL@ADDRESS>\n"
+"Language: bau\n"
+"Language-Team: bau <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+#: messages.txt:2
+msgid ""
+"La Côte d'Ivoire, officiellement République de Côte d'Ivoire (RCI), est un "
+"État situé en Afrique, dans la partie occidentale du golfe de Guinée. Elle "
+"présente sensiblement la forme d'un carré d'environ 600 kilomètres de côté. "
+"D’une superficie de 322 462 km², elle est bordée au nord-ouest par le Mali, "
+"au nord-est par le Burkina Faso, à l'est par le Ghana, au sud-ouest par le "
+"Liberia, à l'ouest-nord-ouest par la Guinée et au sud par l’océan Atlantique."
+msgstr ""
+
+#: messages.txt:4
+msgid ""
+"La population est estimée à 28 088 455 habitants en 2021. La Côte d'Ivoire a "
+"pour capitale politique et administrative Yamoussoukro mais la quasi-"
+"totalité des institutions se trouvent à Abidjan, son principal centre "
+"économique. Sa langue officielle est le français, mais quelques 70 langues "
+"et dialectes sont parlés au quotidien. Sa monnaie est le franc CFA. Le pays "
+"fait partie de la CEDEAO, de l'Union africaine et de l'Organisation de la "
+"coopération islamique."
+msgstr ""
+
+#: messages.txt:6
+msgid ""
+"D'abord protectorat français en 1843 puis colonie française le 10 mars 1893, "
+"le pays acquiert son indépendance le 7 août 1960, sous la houlette de Félix "
+"Houphouët-Boigny, premier président de la République."
+msgstr ""
+
+#: messages.txt:8
+msgid ""
+"L'économie, essentiellement axée sur l'agriculture, notamment la production "
+"de café et de cacao, connaît au cours des deux premières décennies un essor "
+"exceptionnel, faisant de la Côte d'Ivoire un pays phare en Afrique de "
+"l'Ouest. En 1990, le pays traverse, outre la crise économique survenue à la "
+"fin des années 1970, des périodes de turbulence sur les plans social et "
+"politique. Ces problèmes connaissent une exacerbation à la mort de Félix "
+"Houphouët-Boigny en 1993."
+msgstr ""
+
+#: messages.txt:10
+msgid ""
+"L'adoption d'une nouvelle constitution et l'organisation de l'élection "
+"présidentielle qui, en 2000, porte au pouvoir Laurent Gbagbo, n’apaisent pas "
+"les tensions sociales et politiques, qui conduisent au déclenchement d'une "
+"crise politico-militaire le 19 septembre 2002. Après plusieurs accords de "
+"paix, l'élection présidentielle de 2010 voit la victoire d'Alassane Ouattara "
+"face à son opposant Laurent Gbagbo. Réélu en 2015, Alassane Ouattara relance "
+"la croissance économique par une politique libérale et interventionniste "
+"tout en étant critiqué pour sa gestion de l'armée et de la justice."
+msgstr ""
+
+#: messages.txt:12
+msgid ""
+"En 2016, une nouvelle constitution est adoptée, marquant l'avènement de la "
+"Troisième République. Cette nouvelle constitution a subi des modifications "
+"le 17 mars 2020."
+msgstr ""
+
+#: messages.txt:13
+msgid ""
+"La Côte d'Ivoire est en voie de développement et se place en 162e position "
+"selon son indice de développement humain (IDH) en 2019. "
+msgstr ""
